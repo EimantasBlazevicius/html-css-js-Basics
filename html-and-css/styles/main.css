@@ -1,0 +1,16 @@
+div {
+  color: blue;
+}
+.red-text,
+[type="text"] {
+  color: red;
+}
+#specific_thing {
+  background-image: url(../img.jpeg);
+}
+.box-example {
+  display: block;
+  border: 3px red groove;
+  padding: 15px 20px 5px 9px;
+  margin: 50px;
+}
